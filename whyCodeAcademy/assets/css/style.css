@@ -1,0 +1,40 @@
+#why-academy .content a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+.cards-item {
+  display: flex;
+  justify-content: space-evenly;
+  color: black;
+  margin-top: 60px;
+}
+#why-academy {
+  justify-content: center;
+}
+.heading p {
+  width: 550px;
+}
+h2 div {
+  font-weight: lighter;
+}
+.content {
+  margin-left: 20px;
+}
+.photo img {
+  width: 208px;
+  height: 208px;
+}
+a {
+  text-decoration: none;
+}
+.heading {
+  display: grid;
+  height: 300px;
+  align-items: space-between;
+  margin-left: 130px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.title .why {
+  font-weight: 100;
+}
